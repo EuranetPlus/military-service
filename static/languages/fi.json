@@ -1,0 +1,20 @@
+{
+  "title": "Missä EU-maissa on asevelvollisuus?",
+  "subtitle": "EU:n 27 maasta yhdeksässä on asevelvollisuus",
+  "textNoteDescription": "Huom",
+  "textNote": "Kaikissa muissa EU27-maissa on a",
+  "textSourceDescription": "Lähde",
+  "textSource": "EUNews",
+  "linkDataAccessDescription": "Käytä tietoja",
+  "extraInfo_AT": "Vuonna 2006 asevelvollisuus lyhennettiin kuuteen kuukauteen.",
+  "extraInfo_CY": "Pakollinen asepalvelus on 26 kuukautta",
+  "extraInfo_DK": "Pakollinen asepalvelus kestää neljästä kahteentoista kuukauteen",
+  "extraInfo_EE": "Pakollinen asepalvelus kestää kahdeksasta yhteentoista kuukauteen",
+  "extraInfo_EL": "Pakollinen asepalvelus kestää yhdeksästä kahteentoista kuukauteen",
+  "extraInfo_FI": "Pakollinen asepalvelus kestää kuudesta kahteentoista kuukauteen",
+  "extraInfo_LT": "Pakollinen asepalvelus kestää yhdeksän kuukautta",
+  "extraInfo_LV": "Pakollinen asepalvelus kestää kuusi kuukautta",
+  "extraInfo_SE": "Pakollinen asepalvelus kestää kaksitoista kuukautta",
+  "legend1": "Tietoja ei ole saatavilla",
+  "tooltipExtraInfoLabel": "Klikkaa tästä"
+}
