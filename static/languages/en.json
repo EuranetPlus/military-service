@@ -1,0 +1,20 @@
+{
+  "title": "Which EU countries have compulsory conscription?",
+  "subtitle": "Out of the 27 countries in the EU 9 have a compulsory conscription",
+  "textNoteDescription": "Note",
+  "textNote": "All other countries in the EU27 have a",
+  "textSourceDescription": "Source",
+  "textSource": "EUNews",
+  "linkDataAccessDescription": "Access the data",
+  "extraInfo_AT": "In 2006 compulsory military service was reduced to six months.",
+  "extraInfo_CY": "Compulsory military service is 26 months",
+  "extraInfo_DK": "Compulsory military service lasts four to twelve months",
+  "extraInfo_EE": "Compulsory military service lasts eight to eleven months",
+  "extraInfo_EL": "Compulsory military service lasts nine to twelve months",
+  "extraInfo_FI": "Compulsory military service lasts six to twelve months",
+  "extraInfo_LT": "Compulsory military service lasts nine months",
+  "extraInfo_LV": "Compulsory military service lasts six months",
+  "extraInfo_SE": "Compulsory military service lasts twelve months",
+  "legend1": "No data available",
+  "tooltipExtraInfoLabel": "Click here"
+}
