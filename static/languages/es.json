@@ -1,0 +1,20 @@
+{
+  "title": "¿Qué países de la UE tienen servicio militar obligatorio?",
+  "subtitle": "De los 27 países de la UE, 9 tienen un servicio militar obligatorio",
+  "textNoteDescription": "Nota",
+  "textNote": "Todos los demás países de la UE27 tienen una",
+  "textSourceDescription": "Fuente",
+  "textSource": "Noticias de la UE",
+  "linkDataAccessDescription": "Acceder a los datos",
+  "extraInfo_AT": "En 2006 el servicio militar obligatorio se redujo a seis meses.",
+  "extraInfo_CY": "El servicio militar obligatorio es de 26 meses",
+  "extraInfo_DK": "El servicio militar obligatorio dura entre cuatro y doce meses.",
+  "extraInfo_EE": "El servicio militar obligatorio dura entre ocho y once meses.",
+  "extraInfo_EL": "El servicio militar obligatorio dura entre nueve y doce meses.",
+  "extraInfo_FI": "El servicio militar obligatorio dura entre seis y doce meses.",
+  "extraInfo_LT": "El servicio militar obligatorio dura nueve meses",
+  "extraInfo_LV": "El servicio militar obligatorio dura seis meses",
+  "extraInfo_SE": "El servicio militar obligatorio dura doce meses",
+  "legend1": "No hay datos disponibles",
+  "tooltipExtraInfoLabel": "haga clic aquí"
+}
