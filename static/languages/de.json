@@ -1,0 +1,20 @@
+{
+  "title": "In welchen EU-Ländern besteht eine Wehrpflicht?",
+  "subtitle": "Von den 27 Ländern der EU haben 9 eine Wehrpflicht",
+  "textNoteDescription": "Notiz",
+  "textNote": "Alle anderen Länder der EU27 haben eine",
+  "textSourceDescription": "Quelle",
+  "textSource": "EUNews",
+  "linkDataAccessDescription": "Zugriff auf die Daten",
+  "extraInfo_AT": "Im Jahr 2006 wurde die Wehrpflicht auf sechs Monate verkürzt.",
+  "extraInfo_CY": "Die Wehrpflicht beträgt 26 Monate",
+  "extraInfo_DK": "Die Wehrpflicht dauert vier bis zwölf Monate",
+  "extraInfo_EE": "Die Wehrpflicht dauert acht bis elf Monate",
+  "extraInfo_EL": "Die Wehrpflicht dauert neun bis zwölf Monate",
+  "extraInfo_FI": "Die Wehrpflicht dauert sechs bis zwölf Monate",
+  "extraInfo_LT": "Die Wehrpflicht dauert neun Monate",
+  "extraInfo_LV": "Die Wehrpflicht dauert sechs Monate",
+  "extraInfo_SE": "Die Wehrpflicht dauert zwölf Monate",
+  "legend1": "Keine Daten verfügbar",
+  "tooltipExtraInfoLabel": "klicken Sie hier"
+}
